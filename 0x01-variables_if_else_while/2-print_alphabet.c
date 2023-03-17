@@ -13,8 +13,7 @@ int main(void)
 	{
 		putchar(ch);/* Print current letter */
 		ch++;/* Move to the next letter */
-	
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }

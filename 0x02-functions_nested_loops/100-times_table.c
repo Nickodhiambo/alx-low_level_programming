@@ -12,7 +12,7 @@ void print_times_table(int n)
 
 	if (n >=0 && n <= 15)
 	{
-		for (n = 0; n <= 0; n++)
+		for (num = 0; num <= 0; num++)
 		{
 			_putchar('0');
 			for (mult = 1; mult <= n; mult++)

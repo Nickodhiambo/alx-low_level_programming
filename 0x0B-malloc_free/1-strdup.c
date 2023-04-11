@@ -3,13 +3,13 @@
 
 /**
  * _strdup - Duplicates a string
- * @s: The string to be duplicated
+ * @str: The string to be duplicated
  * Return: The duplicated string
  */
 
 char *_strdup(char *str)
 {
-	int i = 0; int j = 1;
+	int i = 0, j = 1;
 	char *s;
 
 	if (str == NULL)

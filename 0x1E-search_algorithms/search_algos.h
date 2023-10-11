@@ -1,9 +1,10 @@
 #ifndef SEARCH_ALGOS_H
 #define SEARCH_ALGOS_H
 
-/* Include stdlib functins */
+/* Include stdlib functions */
 #include <stdlib.h>
 #include <stdio.h>
+#include <stddef.h>
 
 /**
  * struct listint_s - singly linked list
